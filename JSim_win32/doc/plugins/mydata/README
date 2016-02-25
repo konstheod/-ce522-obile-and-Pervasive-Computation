@@ -1,8 +1,0 @@
-  To build the plugin (MyDataFormat.jar):
-
-./build
-
-  Run a plugin test:
-
-jsbatch -o somemodel.mod -plugin MyDataFormat.jar -ofmt mine
-
