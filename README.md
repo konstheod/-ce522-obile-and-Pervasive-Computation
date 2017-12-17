@@ -1,1 +1,3 @@
-# -ce522-obile-and-Pervasive-Computation
+# Building-Damage-Resilient-Dominating-Sets-in-Complex-Network
+
+Implementation of the paper algorithms
